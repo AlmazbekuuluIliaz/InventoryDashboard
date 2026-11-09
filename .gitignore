@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+# Environment variables
+.env
+# Python instruments
+__pycache__/
+*.pyс
+# Static
+staticfiles/
+# Testing
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
